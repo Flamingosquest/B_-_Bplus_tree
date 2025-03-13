@@ -1,4 +1,4 @@
-// Deleting a key from a B-tree in C++
+
 
 #include <iostream>
 using namespace std;
