@@ -1,5 +1,5 @@
-//Added New Comments
 
+//This is a sample comment
 #include <iostream>
 using namespace std;
 
